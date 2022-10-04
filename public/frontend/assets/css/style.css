@@ -73,12 +73,12 @@ a:focus,
 a:hover,
 .portfolio-cat a:hover,
 .footer -menu li a:hover {
-  color: #0054FF;
+  color: #e92c74;
   text-decoration: none; }
 
 a,
 button {
-  color: #0054FF;
+  color: #e92c74;
   outline: medium none;
   text-decoration: none; }
 
@@ -162,17 +162,17 @@ label {
   font-weight: 400; }
 
 *::-moz-selection {
-  background: #0054FF;
+  background: #e92c74;
   color: #fff;
   text-shadow: none; }
 
 ::-moz-selection {
-  background: #0054FF;
+  background: #e92c74;
   color: #fff;
   text-shadow: none; }
 
 ::selection {
-  background: #0054FF;
+  background: #e92c74;
   color: #fff;
   text-shadow: none; }
 
@@ -211,7 +211,7 @@ label {
   background: #191B1E; }
 
 .theme-bg {
-  background: #0054FF; }
+  background: #e92c74; }
 
 /*=============================
     - color
@@ -223,7 +223,7 @@ label {
   color: #191B1E; }
 
 .theme-color {
-  color: #0054FF; }
+  color: #e92c74; }
 
 /*=============================
     - Bootstrap Custom
@@ -268,7 +268,7 @@ label {
 .btn {
   user-select: none;
   -moz-user-select: none;
-  background: #0054FF none repeat scroll 0 0;
+  background: #e92c74 none repeat scroll 0 0;
   border: medium none;
   border-radius: 0;
   color: #fff;
@@ -349,7 +349,7 @@ label {
   color: #fff;
   text-align: center;
   cursor: pointer;
-  background: #0054FF;
+  background: #e92c74;
   transition: 1s ease;
   border: none;
   opacity: 0; }
@@ -3176,7 +3176,7 @@ Breadcrumb
       left: auto;
       right: -60px; }
     .portfolio__active .slick-arrow:hover {
-      color: #0054FF; }
+      color: #e92c74; }
   .portfolio__item {
     position: relative; }
     @media (max-width: 767.98px) {
@@ -3192,7 +3192,7 @@ Breadcrumb
     position: absolute;
     width: 438px;
     height: 438px;
-    background: rgba(0, 84, 255, 0.95);
+    background: #e92c74;
     border-radius: 50%;
     display: flex;
     align-items: center;
@@ -3807,7 +3807,7 @@ Breadcrumb
       .testimonial__arrow button.slick-next {
         margin-left: 30px; }
       .testimonial__arrow button:hover {
-        color: #0054FF; }
+        color: #e92c74; }
 
 .testimonial__avatar__img li.now-in-view:nth-child(1) {
   -webkit-transform: translate(0, 0);
@@ -3943,7 +3943,7 @@ Breadcrumb
   .blog__post__item {
     margin-bottom: 30px; }
     .blog__post__item:hover .blog__post__content .title a {
-      color: #0054FF;
+      color: #e92c74;
       background-size: 0 2px, 100% 2px; }
   .blog__post__thumb {
     position: relative; }
@@ -3995,7 +3995,7 @@ Breadcrumb
       .blog__post__content .title a {
         position: relative;
         display: inline;
-        background-image: linear-gradient(#0054FF, #0054FF), linear-gradient(#0054FF, #0054FF);
+        background-image: linear-gradient(#e92c74, #e92c74), linear-gradient(#e92c74, #e92c74);
         background-size: 0% 1px, 0 1px;
         background-position: 100% 100%, 0 100%;
         background-repeat: no-repeat;
@@ -4015,7 +4015,7 @@ Breadcrumb
         font-weight: 700;
         margin-left: 8px; }
       .blog__post__content .read__more:hover {
-        color: #0054FF; }
+        color: #e92c74; }
   .blog .row.gx-0 [class*="col-"]:not(:first-child) .blog__post__item {
     margin-left: -2px; }
   .blog__button {
@@ -4066,7 +4066,7 @@ Breadcrumb
       font-size: 18px;
       color: #191B1E; }
       .standard__blog__thumb .blog__link:hover {
-        background: #0054FF;
+        background: #e92c74;
         color: #fff; }
       @media (max-width: 767.98px) {
         .standard__blog__thumb .blog__link {
@@ -4466,7 +4466,7 @@ Breadcrumb
       .blog__next__prev__content .title {
         font-size: 16px; } }
     .blog__next__prev__content .title a:hover {
-      color: #0054FF; }
+      color: #e92c74; }
 
 .comment.comment__wrap {
   margin-top: 50px; }
@@ -5161,7 +5161,7 @@ body.active-dark-mode {
     background: #FCAF17;
     color: #fff; }
     .active-dark-mode .blog__post__tags a:hover {
-      background: #0054FF; }
+      background: #e92c74; }
   .active-dark-mode .blog__post__content {
     background: #222B45;
     border-color: #313B58; }
