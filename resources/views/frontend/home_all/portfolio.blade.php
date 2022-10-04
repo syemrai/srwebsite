@@ -3,8 +3,8 @@
         <div class="row justify-content-center">
             <div class="col-xl-6 col-lg-8">
                 <div class="section__title text-center">
-                    <span class="sub-title">04 - Portfolio</span>
-                    <h2 class="title">All creative work</h2>
+                    <span class="sub-title">02 - Portfolio</span>
+                    <h2 class="title">My Creative Work</h2>
                 </div>
             </div>
         </div>
